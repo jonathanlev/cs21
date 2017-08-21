@@ -1,0 +1,5 @@
+print("Jonathan Leventhal")
+print("I am a Computer Science and Information Systems Major")
+print("I have a dog named Max")
+print("Print line statements are fun")
+print("My favorite ASCII character is the " + chr(169) + ".")

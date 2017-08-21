@@ -1,0 +1,20 @@
+Dataset:  partisan.dat
+
+Source: J.M. Clubb and Santa A. Traugatt (1977), "Partisan Cleavage
+and Cohesion in the House of Representatives, 1861-1974",
+Journal of Interdisciplinary History, Vol 7, #3, pp375-401.
+
+Description: Party Unlikeness Scores and % Party Votes for each
+Congress 1861-1974
+
+Variables/Columns
+
+Congress #   7-8
+Beginning Year    13-16
+Average Party Unlikeness   21-24
+% Party Votes          31-32
+
+
+NOTE: Party UnLikeness = Max(Party1%For,Party2%For)-Min(Party1%For,Party2%For)
+% Party Votes = % of Votes where majority of one party votes one way,
+majority of other party votes other way
